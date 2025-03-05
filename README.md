@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...棒球 跑步 聽音樂
 - 🌱 I’m currently learning ...航運管理
 - 📫 How to reach me ...113b06369@mailst.cjcu.edu.tw
-- ⚡ Fun fact: ...畢業典禮
+- ⚡ Fun fact: ...高中畢業
 
 <!---
 linchientzu/linchientzu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
